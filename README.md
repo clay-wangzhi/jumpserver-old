@@ -3,7 +3,7 @@
 [![Python3](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-2.2-brightgreen.svg?style=plastic)](https://www.djangoproject.com/)
 
-clone自[jumpserver](https://github.com/jumpserver/jumpserver)的1.59版本（最后一个前后端不分离的项目），方便现阶段的二次开发
+clone自[jumpserver](https://github.com/jumpserver/jumpserver)的1.5.9版本（最后一个前后端不分离的项目），方便现阶段的二次开发
 
 JumpServer 是全球首款开源的堡垒机，使用 GNU GPL v2.0 开源协议，是符合 4A 规范的运维安全审计系统。
 
